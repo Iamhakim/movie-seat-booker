@@ -88,3 +88,7 @@ body {
 .row {
   display: flex;
 }
+.count,
+.total {
+  color: #6feaf6;
+}
